@@ -1,6 +1,6 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"
+    {"id":0,"file":0"
 dev tun
 proto tcp
 remote 71.198.198.178 1988
@@ -103,7 +103,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 
 </key>
 "},
-     {"id":1,"file":"
+     {"id":1,"file":1"
 dev tun
 proto tcp
 remote 36.54.222.215 1900
@@ -210,7 +210,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>
 
 "},
-      {"id":2,"file":"
+      {"id":2,"file":2"
 
      dev tun
 proto tcp
